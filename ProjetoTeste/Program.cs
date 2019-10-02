@@ -8,7 +8,9 @@ namespace ProjetoTeste
         {
             Console.WriteLine("Teste");
             Console.WriteLine("Bom dia!");
-            Console.ReadLine();
+            Console.WriteLine("OutraMensagem de Teste");
+
+
         }
     }
 }
