@@ -1,0 +1,11 @@
+C:\TesteGit\ProjetoTeste\ProjetoTeste\bin\Debug\netcoreapp2.2\ProjetoTeste.deps.json
+C:\TesteGit\ProjetoTeste\ProjetoTeste\bin\Debug\netcoreapp2.2\ProjetoTeste.runtimeconfig.json
+C:\TesteGit\ProjetoTeste\ProjetoTeste\bin\Debug\netcoreapp2.2\ProjetoTeste.runtimeconfig.dev.json
+C:\TesteGit\ProjetoTeste\ProjetoTeste\bin\Debug\netcoreapp2.2\ProjetoTeste.dll
+C:\TesteGit\ProjetoTeste\ProjetoTeste\bin\Debug\netcoreapp2.2\ProjetoTeste.pdb
+C:\TesteGit\ProjetoTeste\ProjetoTeste\obj\Debug\netcoreapp2.2\ProjetoTeste.csprojAssemblyReference.cache
+C:\TesteGit\ProjetoTeste\ProjetoTeste\obj\Debug\netcoreapp2.2\ProjetoTeste.csproj.CoreCompileInputs.cache
+C:\TesteGit\ProjetoTeste\ProjetoTeste\obj\Debug\netcoreapp2.2\ProjetoTeste.AssemblyInfoInputs.cache
+C:\TesteGit\ProjetoTeste\ProjetoTeste\obj\Debug\netcoreapp2.2\ProjetoTeste.AssemblyInfo.cs
+C:\TesteGit\ProjetoTeste\ProjetoTeste\obj\Debug\netcoreapp2.2\ProjetoTeste.dll
+C:\TesteGit\ProjetoTeste\ProjetoTeste\obj\Debug\netcoreapp2.2\ProjetoTeste.pdb
