@@ -7,8 +7,9 @@ namespace ProjetoTeste
         static void Main(string[] args) 
         {
             Console.WriteLine("Teste");
-            Console.WriteLine("Bom dia!");
+            
             Console.WriteLine("OutraMensagem de Teste");
+            Console.WriteLine("Tenha um bom dia");
 
 
         }
